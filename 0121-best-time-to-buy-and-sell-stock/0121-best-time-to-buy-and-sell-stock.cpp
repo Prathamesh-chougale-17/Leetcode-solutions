@@ -16,11 +16,11 @@ public:
         // }
         // return diff;
 
-        int mini{prices[0]},profit{0},cost{0};
-        for(int i=1;i<prices.size();i++){
-            cost = prices[i]-mini;
-            if(cost>profit) profit = cost;
-            mini = min(mini,prices[i]);
+        int mini{prices[0]},profit{0},cost{0},_n=prices.size();
+        for(int _i=1;_i<_n;_i++){
+            cost = prices[_i]-mini;
+            profit = max(profit,prices[_i]-mini);
+            mini = min(mini,prices[_i]);
         }
         return profit;
         
