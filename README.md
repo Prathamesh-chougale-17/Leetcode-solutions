@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
 ## Graph
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
