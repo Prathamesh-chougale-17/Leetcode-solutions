@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -132,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
