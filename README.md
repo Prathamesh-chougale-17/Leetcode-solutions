@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
