@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
