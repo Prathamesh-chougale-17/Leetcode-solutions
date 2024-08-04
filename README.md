@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
