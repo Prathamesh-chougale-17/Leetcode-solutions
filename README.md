@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
