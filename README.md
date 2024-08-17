@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Graph
 |  |
 | ------- |
