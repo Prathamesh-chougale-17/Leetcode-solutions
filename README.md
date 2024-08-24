@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
