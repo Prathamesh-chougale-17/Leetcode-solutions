@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0476-number-complement) |
 ## Game Theory
