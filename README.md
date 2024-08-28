@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -256,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
