@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Simulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
