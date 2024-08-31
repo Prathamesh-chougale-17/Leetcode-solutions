@@ -24,7 +24,6 @@ public:
         while (!pq.empty()) {
             auto [cur_prob, i] = pq.top();
             pq.pop();
-        //    cout<< i<<","<<cur_prob<<endl;
             if (i == end) 
                 return cur_prob;
 
@@ -32,7 +31,6 @@ public:
                 double new_prob = cur_prob * next_prob;
                 if (new_prob > prob[j]) {
                     prob[j] = new_prob;
-                //    cout<< i<<","<<j<<","<<new_prob<<endl;
                     pq.push({new_prob, j});
                 }
             }
