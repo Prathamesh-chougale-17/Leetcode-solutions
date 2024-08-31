@@ -1,28 +1,42 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
-        vector<double> maxProb(n, 0.0);
-        maxProb[start_node] = 1.0;
+    using v = pair<double, int>;
+    vector<vector<v>> adj;
 
-        for (int i = 0; i < n - 1; ++i) {
-            bool updated = false;
-            for (int j = 0; j < edges.size(); ++j) {
-                int u = edges[j][0];
-                int v = edges[j][1];
-                double prob = succProb[j];
+    inline void create_adj(int n, vector<vector<int>>& edges, vector<double>& succProb) {
+        adj.resize(n);
+        int eN = edges.size();
+        for (int i = 0; i < eN; i++) {
+            int v0 = edges[i][0], v1 = edges[i][1];
+            adj[v0].push_back({succProb[i], v1});
+            adj[v1].push_back({succProb[i], v0});
+        }
+    }
 
-                if (maxProb[u] * prob > maxProb[v]) {
-                    maxProb[v] = maxProb[u] * prob;
-                    updated = true;
-                }
-                if (maxProb[v] * prob > maxProb[u]) {
-                    maxProb[u] = maxProb[v] * prob;
-                    updated = true;
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
+        vector<double> prob(n, 0);
+        create_adj(n, edges, succProb);
+        priority_queue<v, vector<v>> pq;
+       
+        pq.push({1.0, start});
+        prob[start] = 1.0;
+
+        while (!pq.empty()) {
+            auto [cur_prob, i] = pq.top();
+            pq.pop();
+        //    cout<< i<<","<<cur_prob<<endl;
+            if (i == end) 
+                return cur_prob;
+
+            for (auto [next_prob, j] : adj[i]) {
+                double new_prob = cur_prob * next_prob;
+                if (new_prob > prob[j]) {
+                    prob[j] = new_prob;
+                //    cout<< i<<","<<j<<","<<new_prob<<endl;
+                    pq.push({new_prob, j});
                 }
             }
-            if (!updated)break;
         }
-
-        return maxProb[end_node];
+        return 0.0;
     }
 };
