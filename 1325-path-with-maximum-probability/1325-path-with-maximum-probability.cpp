@@ -1,40 +1,39 @@
 class Solution {
 public:
-    using v = pair<double, int>;
-    vector<vector<v>> adj;
-
-    inline void create_adj(int n, vector<vector<int>>& edges, vector<double>& succProb) {
-        adj.resize(n);
-        int eN = edges.size();
-        for (int i = 0; i < eN; i++) {
-            int v0 = edges[i][0], v1 = edges[i][1];
-            adj[v0].push_back({succProb[i], v1});
-            adj[v1].push_back({succProb[i], v0});
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
+        vector<pair<int,double>>adj [n];
+        for(int i=0;i<edges.size();i++){
+                int no=edges[i][0];
+                int adj_no=edges[i][1];
+                adj[no].push_back({adj_no,succProb[i]}); 
+                adj[adj_no].push_back({no,succProb[i]}); // adj_node - prob
         }
-    }
 
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
-        vector<double> prob(n, 0);
-        create_adj(n, edges, succProb);
-        priority_queue<v, vector<v>> pq;
-       
-        pq.push({1.0, start});
-        prob[start] = 1.0;
+        priority_queue<pair<double,int>>qu;
+        
+        qu.push({1.0,start_node});
 
-        while (!pq.empty()) {
-            auto [cur_prob, i] = pq.top();
-            pq.pop();
-            if (i == end) 
-                return cur_prob;
+        vector<double>dis(n,INT_MIN);
+        dis[start_node]=1;
 
-            for (auto [next_prob, j] : adj[i]) {
-                double new_prob = cur_prob * next_prob;
-                if (new_prob > prob[j]) {
-                    prob[j] = new_prob;
-                    pq.push({new_prob, j});
+        while(!qu.empty()){
+            int node=qu.top().second;
+            double dist=qu.top().first;
+            qu.pop();
+          
+
+            for(auto it : adj[node]){
+                int adj_node=it.first;
+                double cost=it.second;
+                if(dist*cost>dis[adj_node]){
+                    dis[adj_node]=dist*cost;
+                    qu.push({dis[adj_node],adj_node});
                 }
             }
         }
-        return 0.0;
+
+        if(dis[end_node]==INT_MIN) return 0.0000;
+        else return dis[end_node];
+
     }
 };
