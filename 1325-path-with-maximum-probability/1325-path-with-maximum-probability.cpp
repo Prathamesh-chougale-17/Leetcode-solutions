@@ -20,7 +20,7 @@ public:
                     updated = true;
                 }
             }
-            if (!updated) break;
+            if (!updated)break;
         }
 
         return maxProb[end_node];
