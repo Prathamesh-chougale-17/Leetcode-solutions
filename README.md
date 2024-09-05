@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2155-find-missing-observations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Simulation
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2155-find-missing-observations) |
 ## Two Pointers
 |  |
 | ------- |
