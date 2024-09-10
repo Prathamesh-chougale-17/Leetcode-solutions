@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
