@@ -9,7 +9,6 @@ public:
         return s;
     }
     string convertDateToBinary(string date) {
-        int year = stoi(date.substr(0,4)),month = stoi(date.substr(5,2)),day = stoi(date.substr(8,2));
-        return tobinary(year)+"-"+tobinary(month)+"-"+tobinary(day);
+        return tobinary(stoi(date.substr(0,4)))+"-"+tobinary(stoi(date.substr(5,2)))+"-"+tobinary(stoi(date.substr(8,2)));
     }
 };
