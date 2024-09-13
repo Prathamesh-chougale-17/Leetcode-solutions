@@ -7,19 +7,8 @@ public:
         int xori = 0;
         for(int i=0;i<n;i++){
             xori^=arr[i];
-            // pre.push_back(xori);
             pre[i]=xori;
         }
-
-
-        // vector<vector<int>> pre(n,vector<int> (n));
-        // for(int i=0;i<n;i++){
-        // int xori = 0;
-        //     for(int j=i;j<n;j++){
-        //         xori^=arr[j];
-        //         pre[i][j]=xori;
-        //     }
-        // }
         for(int i=0;i<queries.size();i++){
             ans[i]=pre[queries[i][1]]^pre[(queries[i][0]-1)>-1?(queries[i][0]-1):n];
         }
