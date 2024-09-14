@@ -5,12 +5,13 @@ public:
         // return um[maxi];
         int sol=0,lenght=0;
         for(auto &i:nums){
-          if(maxi==i){
-            sol++;
-            lenght=max(lenght,sol);
-          }else{
-            sol=0;
-          }
+        //   if(maxi==i){
+        //     sol++;
+        //     lenght=max(lenght,sol);
+        //   }else{
+        //     sol=0;
+        //   }
+        lenght = max(lenght,(maxi==i)?++sol:sol=0);
         }
         return lenght;
     }
