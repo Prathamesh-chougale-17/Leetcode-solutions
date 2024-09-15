@@ -3,12 +3,14 @@ public:
     string tobinary(int num){
         string s;
         while(num){
-            s = to_string(num%2)+s;
+            s.push_back((char)(num%2+48));
             num/=2;
         }
+        reverse(s.begin(),s.end());
         return s;
     }
     string convertDateToBinary(string date) {
-        return tobinary(stoi(date.substr(0,4)))+"-"+tobinary(stoi(date.substr(5,2)))+"-"+tobinary(stoi(date.substr(8,2)));
+        int year = stoi(date.substr(0,4)),month = stoi(date.substr(5,2)),day = stoi(date.substr(8,2));
+        return tobinary(year)+"-"+tobinary(month)+"-"+tobinary(day);
     }
 };
