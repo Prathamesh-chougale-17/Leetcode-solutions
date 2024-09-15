@@ -1,10 +1,11 @@
 class Solution {
 public:
-    string tobinary(int num){
+    string tobinary(int &num){
         string s;
         while(num){
-            s.push_back((char)(num%2+48));
-            num/=2;
+            s.push_back((char)((num&1)+48));
+            // num/=2;
+            num>>=1;
         }
         reverse(s.begin(),s.end());
         return s;
