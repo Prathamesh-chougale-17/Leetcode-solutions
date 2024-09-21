@@ -1,14 +1,19 @@
 class Solution {
 public:
     vector<int> lexicalOrder(int n) {
-        vector<string> vs;
-        for(int i=1;i<=n;i++){
-            vs.push_back(to_string(i));
-        }
-        sort(vs.begin(),vs.end());
         vector<int> ans;
-        for(auto &i:vs){
-            ans.push_back(stoi(i));
+        int cu = 1;
+        for(int i=0;i<n;i++){
+            ans.push_back(cu);
+            if(cu*10 <=n){
+                cu*=10;
+            }
+            else{
+                while(cu%10==9 || cu+1>n){
+                    cu/=10;
+                }
+                cu++;
+            }
         }
         return ans;
     }
