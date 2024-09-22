@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Linked List
 |  |
 | ------- |
