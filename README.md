@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
