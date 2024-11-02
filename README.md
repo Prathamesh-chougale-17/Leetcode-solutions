@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -456,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
