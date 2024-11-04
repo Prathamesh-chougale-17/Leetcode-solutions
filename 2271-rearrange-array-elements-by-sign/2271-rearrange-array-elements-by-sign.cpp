@@ -1,23 +1,19 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int> v1,v2,v3(nums.size());
-        for(auto &i:nums){
-            if(i>=0){
-                v1.push_back(i);
+        // if we put positive number to the odd place we get our vector
+        int k=0,j=1,n=nums.size();
+        vector<int> ans(n);
+        for(int &i:nums){
+            if(i<0){
+                ans[j]=i;
+                j+=2;
             }
             else{
-                v2.push_back(i);
+                ans[k]=i;
+                k+=2;
             }
         }
-        for(int i=0;i<nums.size();i++){
-            if(i%2){
-                v3[i]=v2[(i-1)/2];
-            }
-            else{
-                v3[i]=v1[i/2];
-            }
-        }
-        return v3;
+        return ans;
     }
 };
