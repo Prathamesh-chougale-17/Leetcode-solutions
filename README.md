@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0179-largest-number) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
