@@ -6,12 +6,12 @@ public:
             if(i=='(' || i=='{' || i=='['){
                 st.push(i);
             }
-            else if(st.size() && i==')' && st.top()=='(') st.pop();
-            else if(st.size() && i=='}' && st.top()=='{') st.pop();
-            else if(st.size() && i==']' && st.top()=='[') st.pop();
+            else if(!st.empty() && i==')' && st.top()=='(') st.pop();
+            else if(!st.empty() && i=='}' && st.top()=='{') st.pop();
+            else if(!st.empty() && i==']' && st.top()=='[') st.pop();
             else {
                 return false;
-                }
+}
         }
         return !st.size();
     }
