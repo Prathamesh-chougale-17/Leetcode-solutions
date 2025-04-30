@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         unordered_map<int,int> um;
         for(int i=0;i<n;i++){
-            if(um.find(nums[i])!=um.end()){
+            if(um.contains(nums[i])){
                 return {um[nums[i]],i};
             }
             um[target-nums[i]] = i;
