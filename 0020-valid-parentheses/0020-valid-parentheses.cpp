@@ -13,6 +13,6 @@ public:
                 return false;
 }
         }
-        return !st.size();
+        return st.empty();
     }
 };
