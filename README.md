@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0476-number-complement) |
