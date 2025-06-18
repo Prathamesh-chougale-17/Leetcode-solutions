@@ -4,7 +4,6 @@ public:
         int maxi = 0;
         int i = 0 , j = h.size()-1;
         while(i<j){
-            cout<<i<<"  "<<j<<endl;
             maxi = max(min(h[i],h[j])*(j-i),maxi);
             if(h[i]>h[j]){
                 j--;
