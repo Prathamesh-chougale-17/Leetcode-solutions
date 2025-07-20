@@ -1,16 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int cani,count{0};
-        for(auto &i:nums){
-            if(count==0)cani = i;
-            if(cani==i){
+        int maxi = nums[0],count = 1,n = nums.size();
+        for(int i=1;i<n;i++){
+            if(nums[i]==maxi){
                 count++;
-            }
-            if(cani!=i){
+            }else{
                 count--;
+                cout<<count<<endl;
+                if(count<1){
+                    maxi = nums[i];
+                    count = 1;
+                }
             }
         }
-        return cani;
+        return maxi;
     }
 };
