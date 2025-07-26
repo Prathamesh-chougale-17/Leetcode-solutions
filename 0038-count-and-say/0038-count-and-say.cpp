@@ -17,7 +17,6 @@ public:
                 }
             }
             sol+=(to_string(c)+present);
-            cout<<sol<<endl;
             s = sol;
         }
         return sol;
