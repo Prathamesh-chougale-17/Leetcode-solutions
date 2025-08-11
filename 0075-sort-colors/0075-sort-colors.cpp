@@ -1,16 +1,19 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int j=0,k=0,n=nums.size();
+        int j=-1,k=-1,n=nums.size();
         for(int i=0;i<n;i++){
-            int temp = nums[i];
-            // cout<<j<<k<<endl;
-            if(j<i && nums[j]>nums[i])
-                swap(nums[i],nums[j]);
-            if(k!=j && k<i)
+            if(nums[i]==0){
+                j++;
+                k++;
+                if(k>j){
+                    swap(nums[k],nums[i]);
+                    swap(nums[k],nums[j]);
+                }else swap(nums[i],nums[j]);
+            }else if(nums[i]==1){
+                k++;
                 swap(nums[k],nums[i]);
-            if(temp<1) j++;
-            if(temp<2) k++;
+            }
         }
     }
 };
