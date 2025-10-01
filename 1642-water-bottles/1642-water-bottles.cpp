@@ -1,11 +1,12 @@
 class Solution {
 public:
-    int numWaterBottles(int n, int k) {
-        int  r{n},ans{n};
-       while(r/k){
-            ans+=r/k;
-            r = r/k+r%k;
-       }
-       return ans;
+    int numWaterBottles(int nb, int ne) {
+        int sumi = nb,rm = 0;
+        while(nb>=ne){
+            sumi += nb/ne;
+            nb = nb/ne + nb%ne;
+            cout<<nb<<endl;
+        }
+        return sumi;
     }
 };
