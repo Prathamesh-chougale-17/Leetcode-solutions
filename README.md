@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2155-find-missing-observations) |
 | [2571-find-the-pivot-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-water-bottles-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
