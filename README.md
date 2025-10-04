@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
