@@ -1,21 +1,30 @@
 class Solution {
 public:
-    vector<int> spiralOrder(vector<vector<int>>& m) {
-        int t=0,r=m[0].size()-1,l=0,b=m.size()-1;
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        int x = 0, y = 0,a = matrix.size(), b = matrix[0].size();
         vector<int> ans;
-        while(t<=b && r>=l){
-            for(int i=l;i<=r;i++){
-                ans.push_back(m[t][i]);
+        while(x<a && y<b){
+            for(int i=y;i<b;i++){
+                ans.push_back(matrix[x][i]);
             }
-            t++;
-            for(int i=t;i<=b;i++){
-                ans.push_back(m[i][r]);
+            x++;
+            for(int i=x;i<a;i++){
+                ans.push_back(matrix[i][b-1]);
             }
-            r--;
-            if(t<=b)for(int i=r;i>=l;i--)ans.push_back(m[b][i]);
             b--;
-            if(l<=r)for(int i=b;i>=t;i--)ans.push_back(m[i][l]);
-            l++;
+            if(x<a){
+                for(int i=b-1;i>=y;i--){
+                    ans.push_back(matrix[a-1][i]);
+                }
+                a--;
+            }
+            if(y<b){
+                for(int i=a-1;i>=x;i--){
+                    ans.push_back(matrix[i][y]);
+                }
+                y++;
+            }
+
         }
         return ans;
     }
