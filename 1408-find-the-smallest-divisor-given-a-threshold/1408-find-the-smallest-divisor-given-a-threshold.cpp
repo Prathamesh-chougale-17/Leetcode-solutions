@@ -1,19 +1,25 @@
 class Solution {
 public:
-    bool mono(vector<int> &nums,int t, int d){
-        int tt = 0;
-        for(auto &i:nums){
-            tt += i/d;
-            if(i%d!=0)tt++;
+    bool issol(vector<int> &nums,int t,int y){
+        int sumi = 0;
+        for(int &i:nums){
+            sumi += (i-1+ y)/y;
         }
-        return tt<=t;
+        return sumi<=t;
     }
     int smallestDivisor(vector<int>& nums, int t) {
-        int l = 1, r = *max_element(nums.begin(),nums.end());
-        while(l<r){
-            int mid = l + (r-l)/2;
-            mono(nums,t,mid)==true?r = mid:l=mid+1;
+        int maxi = *max_element(nums.begin(),nums.end());
+        int i = 1, j = maxi,sol=1;
+        while(i<=j){
+            int mid = i + (j-i)/2;
+            if(issol(nums,t,mid)){
+                sol = mid;
+                j = mid - 1;
+            }else{
+                i = mid + 1;
+                cout<<i<<endl;
+            }
         }
-        return l;
+        return sol;
     }
 };
