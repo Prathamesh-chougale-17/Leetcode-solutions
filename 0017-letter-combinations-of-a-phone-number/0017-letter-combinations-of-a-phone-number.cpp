@@ -17,8 +17,8 @@ public:
 
         vector<string> ans;
         string key = mapper[up[0]-'2'];
-        for(int j=0;j<key.size();j++){
-            vector<string> temp = combo(p+key[j],up.substr(1));
+        for(auto &i:key){
+            vector<string> temp = combo(p+i,up.substr(1));
             ans.insert(ans.end(),temp.begin(),temp.end());
         }
         return ans;
