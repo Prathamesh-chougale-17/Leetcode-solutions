@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void comb(vector<int>& c,vector<int> &x,int t,int s,int i,int n,vector<vector<int>> &v){
-        if(i==n || s>t){
-            if(s==t)
-                v.push_back(x);
+    void back(vector<int> &c,int t,int i,int n,vector<vector<int>> &sol,vector<int> &ans){
+        if(t==0){
+            sol.push_back(ans);
             return;
         }
-        comb(c,x,t,s,i+1,n,v);
-        x.push_back(c[i]);
-        comb(c,x,t,s+c[i],i,n,v);
-        x.pop_back();
-       
+        if(i==n || t<0)return;
+        for(int j=i;j<n;j++){
+            ans.push_back(c[j]);
+            back(c,t-c[j],j,n,sol,ans);
+            ans.pop_back();
+        }
     }
-    vector<vector<int>> combinationSum(vector<int>& c, int t) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        comb(c,temp,t,0,0,c.size(),ans);
-        return ans;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> sol;
+        vector<int> ans;
+        back(candidates,target,0,candidates.size(),sol,ans);
+        return sol;
     }
 };
