@@ -1,11 +1,11 @@
 class Solution {
 public:
     void back(vector<int> &c,int t,int i,int n,vector<vector<int>> &sol,vector<int> &ans){
+        if(i==n || t<0)return;
         if(t==0){
             sol.push_back(ans);
             return;
         }
-        if(i==n || t<0)return;
         for(int j=i;j<n;j++){
             ans.push_back(c[j]);
             back(c,t-c[j],j,n,sol,ans);
