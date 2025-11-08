@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void back(vector<int> &c,int t,int i,int n,vector<vector<int>> &sol,vector<int> &ans){
+    void back(vector<int> &c,int t,int i,int n,vector<vector<int>> &sol,vector<int> ans){
         if(i==n || t<0)return;
         if(t==0){
             sol.push_back(ans);
