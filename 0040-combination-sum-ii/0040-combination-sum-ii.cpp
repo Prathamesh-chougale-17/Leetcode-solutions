@@ -1,23 +1,27 @@
 class Solution {
-    void comb(int ind,int target,vector<int>&nums,vector<vector<int>>&ans,vector<int>&ds){
-        if(target==0){
-            ans.push_back(ds);
+public:
+    void back(vector<int>& c, int t,int i,int n,vector<vector<int>> &sol,vector<int> &ans){
+        if(t==0){
+            sol.push_back(ans);
             return;
         }
-        for(int i=ind;i<nums.size();i++){
-            if(i>ind && nums[i]==nums[i-1]) continue;
-            if(nums[i]>target)break;
-            ds.push_back(nums[i]);
-            comb(i+1,target-nums[i],nums,ans,ds);
-            ds.pop_back();
-        }
+        if(t<0 || i==n)return;
+        // if(i>0 && c[i]==c[i-1]){
+        //     i++;
+        //     return;
+        // }
+        ans.push_back(c[i]);
+        back(c,t-c[i],i+1,n,sol,ans);
+        ans.pop_back();
+        int j = i + 1;
+        while (j < n && c[j] == c[i]) j++;
+        back(c,t,j,n,sol,ans);
     }
-public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<vector<int>>ans;
-        vector<int>ds;
         sort(candidates.begin(),candidates.end());
-        comb(0,target,candidates,ans,ds);
-        return ans;
+        vector<vector<int>> sol;
+        vector<int> ans;
+        back(candidates,target,0,candidates.size(),sol,ans);
+        return sol;
     }
 };
