@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
