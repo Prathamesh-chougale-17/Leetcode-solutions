@@ -6,16 +6,12 @@ public:
             return;
         }
         if(t<0 || i==n)return;
-        // if(i>0 && c[i]==c[i-1]){
-        //     i++;
-        //     return;
-        // }
-        ans.push_back(c[i]);
-        back(c,t-c[i],i+1,n,sol,ans);
-        ans.pop_back();
-        int j = i + 1;
-        while (j < n && c[j] == c[i]) j++;
-        back(c,t,j,n,sol,ans);
+        for(int j=i;j<n;j++){
+            if(j>i && c[j]==c[j-1])continue;
+            ans.push_back(c[j]);
+            back(c,t-c[j],j+1,n,sol,ans);
+            ans.pop_back();
+        }
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
