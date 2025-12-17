@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
