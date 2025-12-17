@@ -9,6 +9,10 @@ public:
             return;
         }
         for(int j=i;j<=9;j++){
+            if (i > t) break;
+
+            // if not enough numbers left, stop
+            if (9 - i + 1 < k) break;
             ans.push_back(j);
             back(k-1,n,t-j,j+1,ans,sol);
             ans.pop_back();
