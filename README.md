@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1325-path-with-maximum-probability) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
