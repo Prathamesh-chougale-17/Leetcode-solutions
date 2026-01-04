@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1325-path-with-maximum-probability) |
+| [1390-four-divisors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1048-clumsy-factorial](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-clumsy-factorial) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
+| [1390-four-divisors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1642-water-bottles) |
