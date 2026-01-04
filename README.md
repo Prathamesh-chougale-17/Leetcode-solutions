@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
