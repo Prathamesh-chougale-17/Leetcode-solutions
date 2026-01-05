@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1929-concatenation-of-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1975-maximum-matrix-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1975-maximum-matrix-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1975-maximum-matrix-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
