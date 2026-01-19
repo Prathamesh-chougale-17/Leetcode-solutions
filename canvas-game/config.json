@@ -1,0 +1,63 @@
+{
+  "gameConfig": {
+    "canvas": {
+      "width": 800,
+      "height": 600,
+      "backgroundColor": "#f8f9fa",
+      "gridEnabled": true,
+      "gridSpacing": 50,
+      "gridColor": "#e0e0e0"
+    },
+    "physics": {
+      "gravity": 0.3,
+      "friction": 0.8,
+      "bounceEnergyLoss": 0.8,
+      "maxVelocity": 15
+    },
+    "rendering": {
+      "targetFPS": 60,
+      "particleLifetime": 3000,
+      "defaultColors": {
+        "circle": "#ff4444",
+        "square": "#4444ff", 
+        "triangle": "#44ff44",
+        "text": "#333333",
+        "particle": "#ffaa00"
+      }
+    },
+    "ai": {
+      "model": "gemini-pro",
+      "temperature": 0.3,
+      "maxTokens": 1000,
+      "apiTimeout": 30000
+    },
+    "ui": {
+      "statusTimeout": 5000,
+      "promptHistorySize": 10,
+      "autoSaveApiKey": true
+    }
+  },
+  "examples": {
+    "basicPrompts": [
+      "Create a red bouncing ball",
+      "Draw a blue square",
+      "Add yellow text saying Hello",
+      "Make a green triangle"
+    ],
+    "physicsPrompts": [
+      "Enable bouncing for all objects",
+      "Turn on gravity",
+      "Make objects fall down",
+      "Add collision detection"
+    ],
+    "effectPrompts": [
+      "Create particle explosion",
+      "Add sparkling effects",
+      "Make rainbow colors",
+      "Create moving patterns"
+    ]
+  },
+  "version": "1.0.0",
+  "author": "AI Canvas Game",
+  "description": "Interactive canvas game powered by Gemini AI"
+}
