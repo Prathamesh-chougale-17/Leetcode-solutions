@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1048-clumsy-factorial](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-clumsy-factorial) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1048-clumsy-factorial](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
