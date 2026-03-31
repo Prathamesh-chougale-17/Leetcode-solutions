@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3567-convert-date-to-binary](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Breadth-First Search
 |  |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
