@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1048-clumsy-factorial](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-clumsy-factorial) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
