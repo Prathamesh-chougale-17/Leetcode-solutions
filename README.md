@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
