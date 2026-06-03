@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
