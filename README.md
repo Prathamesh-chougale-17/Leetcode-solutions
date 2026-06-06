@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1929-concatenation-of-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1325-path-with-maximum-probability) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
