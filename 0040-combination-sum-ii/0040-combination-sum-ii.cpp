@@ -1,23 +1,25 @@
+using vi = vector<int>;
+using vvi = vector<vi>;
 class Solution {
 public:
-    void back(vector<int>& c, int t,int i,int n,vector<vector<int>> &sol,vector<int> &ans){
-        if(t==0){
-            sol.push_back(ans);
+    void back(vi &c,vi &tmp,int t,vvi &sol,int &n,int i){
+        if(t<=0){
+            if(t==0)sol.push_back(tmp);
             return;
         }
-        if(t<0 || i==n)return;
-        for(int j=i;j<n;j++){
-            if(j>i && c[j]==c[j-1])continue;
-            ans.push_back(c[j]);
-            back(c,t-c[j],j+1,n,sol,ans);
-            ans.pop_back();
+        for(int j = i;j < n;j++){
+            if(i<j && c[j]==c[j-1])continue;
+            tmp.push_back(c[j]);
+            back(c,tmp,t-c[j],sol,n,j+1);
+            tmp.pop_back();
         }
     }
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        vector<vector<int>> sol;
-        vector<int> ans;
-        back(candidates,target,0,candidates.size(),sol,ans);
+    vvi combinationSum2(vector<int>& c, int t) {
+        vvi sol;
+        vi tmp;
+        int n = c.size();
+        sort(c.begin(),c.end());
+        back(c,tmp,t,sol,n,0);
         return sol;
     }
 };
