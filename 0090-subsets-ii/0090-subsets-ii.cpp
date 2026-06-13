@@ -1,19 +1,22 @@
+using vvi = vector<vector<int>>;
+using vi = vector<int>;
 class Solution {
 public:
-    void back(vector<int> &c,int n,int i,vector<int> &ans,vector<vector<int>> &sol){
-        sol.push_back(ans);
+    void back(vi &nums,vvi &ans,vi &sol,int i,int n){
+        ans.push_back(sol);
         for(int j=i;j<n;j++){
-            if(j>i && c[j-1]==c[j])continue;
-            ans.push_back(c[j]);
-            back(c,n,j+1,ans,sol);
-            ans.pop_back();
+            if(j>i && nums[j]==nums[j-1])continue;
+            sol.push_back(nums[j]);
+            back(nums,ans,sol,j+1,n);
+            sol.pop_back();
         }
     }
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> sol;
-        vector<int> ans;
+    vvi subsetsWithDup(vi& nums) {
+        vvi ans;
+        vi sol;
+        int n = nums.size();
         sort(nums.begin(),nums.end());
-        back(nums,nums.size(),0,ans,sol);
-        return sol;
+        back(nums,ans,sol,0,n);
+        return ans;
     }
 };
