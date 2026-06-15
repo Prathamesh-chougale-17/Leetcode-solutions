@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -965,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
