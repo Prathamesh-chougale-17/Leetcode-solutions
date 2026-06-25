@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1732-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1895-largest-magic-square) |
