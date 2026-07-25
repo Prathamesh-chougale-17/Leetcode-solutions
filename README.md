@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-water-bottles-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-convert-date-to-binary](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
