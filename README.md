@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
