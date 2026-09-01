@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2906-construct-product-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
