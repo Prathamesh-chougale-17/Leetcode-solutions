@@ -1028,4 +1028,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0619-biggest-single-number) |
+| [1693-daily-leads-and-partners](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
