@@ -1026,4 +1026,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
