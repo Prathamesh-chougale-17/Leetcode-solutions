@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [1693-daily-leads-and-partners](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Quicksort
 |  |
 | ------- |
