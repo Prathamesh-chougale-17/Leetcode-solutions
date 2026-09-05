@@ -14,7 +14,6 @@ public:
         int kt = premax[0]-suffmin[n-1];
         for(int i=0;i<n;i++){
             kt = min(kt,premax[i]-suffmin[n-1-i]);
-            cout<<kt<<endl;
             if(kt<=k){
                 return i;
             }
