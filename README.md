@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Breadth-First Search
 |  |
