@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
+| [0705-design-hashset](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -993,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0705-design-hashset](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Segment Tree
 |  |
 | ------- |
