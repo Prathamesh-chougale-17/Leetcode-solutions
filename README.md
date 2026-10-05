@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
