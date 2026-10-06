@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0844-backspace-string-compare](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
