@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0670-maximum-swap) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
