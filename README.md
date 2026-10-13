@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0062-unique-paths) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0155-min-stack) |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
