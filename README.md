@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-convert-date-to-binary](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
