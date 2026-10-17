@@ -2,10 +2,6 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        if(n<2){
-            cout<<"hello"<<endl;
-            
-        }
         unordered_map<int,int> um;
         for(int i=0;i<n;i++){
             um[nums[i]]=i;
@@ -25,6 +21,7 @@ public:
             if (sa == sb) return a < b;
             return sa < sb;
         });
+
         vector<int> find;
         for(auto &i:nums){
             find.push_back(um[i]);
