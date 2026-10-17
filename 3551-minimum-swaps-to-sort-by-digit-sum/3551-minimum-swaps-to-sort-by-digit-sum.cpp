@@ -2,9 +2,9 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int,int> um;
+        vector<int> find;
         for(int i=0;i<n;i++){
-            um[nums[i]]=i;
+            find.push_back(i);
         }
 
         auto digitSum = [](int num) {
@@ -16,16 +16,12 @@ public:
             return sum;
         };
 
-        sort(nums.begin(), nums.end(), [&](int a, int b) {
-            int sa = digitSum(a), sb = digitSum(b);
-            if (sa == sb) return a < b;
+        sort(find.begin(), find.end(), [&](int a, int b) {
+            int sa = digitSum(nums[a]), sb = digitSum(nums[b]);
+            if (sa == sb) return nums[a] < nums[b];
             return sa < sb;
         });
 
-        vector<int> find;
-        for(auto &i:nums){
-            find.push_back(um[i]);
-        }
 
         int x = 0,sol = 0;
         while(x<(n+1/2)){
