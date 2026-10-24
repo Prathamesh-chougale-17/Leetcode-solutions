@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Game Theory
 |  |
 | ------- |
