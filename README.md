@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2906-construct-product-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
@@ -1151,4 +1155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
