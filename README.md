@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1156,4 +1159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
