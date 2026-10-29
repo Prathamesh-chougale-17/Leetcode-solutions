@@ -19,7 +19,6 @@ class Solution {
         }
         int min = Integer.MAX_VALUE;
         for(int i=0;i<n;i++){
-            System.out.print(dp[n-1][i] + " ");
             min = Math.min(dp[n-1][i],min);
         }
         return min;
