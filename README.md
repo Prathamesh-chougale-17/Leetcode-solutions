@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0870-magic-squares-in-grid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
