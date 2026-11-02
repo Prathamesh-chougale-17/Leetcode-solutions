@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
@@ -1186,8 +1188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
