@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
