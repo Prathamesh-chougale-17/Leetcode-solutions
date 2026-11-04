@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0664-strange-printer) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
@@ -1202,5 +1206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
