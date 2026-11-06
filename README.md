@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1304-longest-happy-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -844,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
