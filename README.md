@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1237,4 +1239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
