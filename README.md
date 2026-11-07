@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1511-count-number-of-teams](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1511-count-number-of-teams) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
