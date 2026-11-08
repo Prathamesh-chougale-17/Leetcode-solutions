@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2035-count-sub-islands) |
@@ -1222,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
