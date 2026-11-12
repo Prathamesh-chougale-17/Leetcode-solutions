@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3379-transformed-array) |
