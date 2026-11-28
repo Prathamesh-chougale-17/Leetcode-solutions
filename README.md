@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3693-climbing-stairs-ii](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prathamesh-chougale-17/Leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph
 |  |
 | ------- |
